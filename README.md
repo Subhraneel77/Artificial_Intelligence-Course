@@ -7,3 +7,7 @@
 Playlist I followed :- https://www.youtube.com/watch?v=uB3i-qV6VdM&list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI (GATE SMASHERS)
 
 Pdf Files of my Notes :- https://drive.google.com/file/d/1XdRIvFdPJZZsBiyrB6w9c8Iuz2wJyHY9/view?usp=sharing ( Handwritten )
+
+
+Blog :- 
+ <p><a href="https://intellipaat.com/blog/artificial-intelligence-course-syllabus/">Intellipat</p>
